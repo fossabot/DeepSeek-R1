@@ -12,6 +12,7 @@
     src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/badge.svg?raw=true"/></a>
   <a href="https://chat.deepseek.com/" target="_blank"><img alt="Chat"
     src="https://img.shields.io/badge/🤖%20Chat-DeepSeek%20R1-536af5?color=536af5&logoColor=white"/></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FSn0wo2%2FDeepSeek-R1?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FSn0wo2%2FDeepSeek-R1.svg?type=shield"/></a>
   <a href="https://huggingface.co/deepseek-ai" target="_blank"><img alt="Hugging Face"
     src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-DeepSeek%20AI-ffc107?color=ffc107&logoColor=white"/></a>
   <br>
@@ -27,6 +28,9 @@
   <br>
   <a href="https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf"><b>Paper Link</b>👁️</a>
 </div>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSn0wo2%2FDeepSeek-R1.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSn0wo2%2FDeepSeek-R1?ref=badge_large)
 
 ## 1. Introduction
 
